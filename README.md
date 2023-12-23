@@ -15,5 +15,19 @@
 
 # ⚙️𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
-
 ![2](https://github.com/gsyono/RL-Menu-ROCK/assets/124753385/af68436b-ae64-4046-824a-b0c7762aba6b)
+
+### 📌V e h i c l e s ＥＳＰ
+
+* See players through walls. Including information.
+* Max-render distance
+* Max-name render distance
+* Max-info render distance
+* Border-style
+
+### 📌Ｒａｄａｒ
+
+* Easily spot your enemies surrounding you with the Web Radar.
+* Show enemies
+* Show friendly
+* Color
